@@ -159,7 +159,7 @@ development of Instaloader.
 | For Donations, we provide GitHub Sponsors page, a PayPal.Me link and a Bitcoin address.
 |  GitHub Sponsors: `Sponsor @aandergr on GitHub Sponsors <https://github.com/sponsors/aandergr>`__
 |  PayPal: `PayPal.me/aandergr <https://www.paypal.me/aandergr>`__
-|  BTC: 1Nst4LoadeYzrKjJ1DX9CpbLXBYE9RKLwY
+|  BTC: bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n
 
 Disclaimer
 ----------
